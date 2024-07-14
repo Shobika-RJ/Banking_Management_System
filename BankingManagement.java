@@ -31,7 +31,7 @@ public class BankingManagement {
         catch (ClassNotFoundException e)
         {
             System.out.println(e.getMessage());
-            System.out.println("unsuccessfull");
+            System.out.println("Not connected");
 
         }
         
