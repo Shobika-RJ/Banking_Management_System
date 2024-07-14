@@ -34,5 +34,9 @@ The project uses Apache Derby as the database for storing user and account infor
 - `email`: The email address associated with the account.
 - `balance`: The current balance of the account.
 - `security_pin`: The security pin for account verification.
+
+
+
+
 Structure of the database
 ![image](https://github.com/user-attachments/assets/719001e7-3d92-485b-b0b2-fee09b0c8eb1)
