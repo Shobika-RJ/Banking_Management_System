@@ -1,4 +1,4 @@
-# Banking_Management_System
+# Banking_Management_System using JDBC
 ## Overview
 
 The Banking Management System is a Java-based application that allows users to manage their bank accounts. The application provides functionalities for user registration, login, opening new bank accounts, and performing various banking operations such as crediting, debiting, transferring money, and checking account balances.
